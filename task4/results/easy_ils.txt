@@ -1,0 +1,40 @@
+Grafi: easy  |  n = 1357, brinje = 2280  |  metoda: ils, koha 300s, seed 0
+minimum degree: gjeresia e plote 20 (0.3s); gjeresite k: [19, 15, 11, 9, 7, 5, 4, 3, 2, 1]
+  k=19   torso me e madhe = 1013  iteracione = 10888  te pranuara = 1938
+  k=15   torso me e madhe = 223   iteracione = 10765  te pranuara = 1146
+  k=11   torso me e madhe = 101   iteracione = 10489  te pranuara = 1082
+  k=9    torso me e madhe = 86    iteracione = 11389  te pranuara = 1110
+  k=7    torso me e madhe = 53    iteracione = 11344  te pranuara = 1133
+  k=5    torso me e madhe = 44    iteracione = 11189  te pranuara = 1369
+  k=4    torso me e madhe = 28    iteracione = 10965  te pranuara = 1336
+  k=3    torso me e madhe = 29    iteracione = 10470  te pranuara = 1645
+  k=2    torso me e madhe = 3     iteracione = 11205  te pranuara = 1604
+  k=1    torso me e madhe = 2     iteracione = 11414  te pranuara = 1671
+
+Fronti Pareto: 21 pika jo te dominuara, te zgjedhura 20
+Hypervolume (ref = (t = 1357, width = 501)): te gjitha = 0.96425, 20 te zgjedhurat = 0.96425
+
+   t   | torso size | torso width
+     0 |       1357 |          20
+   344 |       1013 |          19
+  1114 |        243 |          18
+  1117 |        240 |          17
+  1122 |        235 |          16
+  1130 |        227 |          15
+  1245 |        112 |          14
+  1247 |        110 |          13
+  1249 |        108 |          12
+  1256 |        101 |          11
+  1266 |         91 |          10
+  1271 |         86 |           9
+  1302 |         55 |           8
+  1304 |         53 |           7
+  1310 |         47 |           6
+  1313 |         44 |           5
+  1324 |         33 |           4
+  1328 |         29 |           3
+  1354 |          3 |           2
+  1355 |          2 |           1
+
+Koha: 300.1s
+Vektoret u ruajten ne results/easy_ils.json

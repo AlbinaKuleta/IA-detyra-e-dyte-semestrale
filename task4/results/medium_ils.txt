@@ -1,0 +1,42 @@
+Grafi: medium  |  n = 1399, brinje = 13799  |  metoda: ils, koha 300s, seed 0
+minimum degree: gjeresia e plote 285 (0.4s); gjeresite k: [284, 170, 102, 61, 36, 22, 13, 8, 5, 3, 2, 1]
+  k=284  torso me e madhe = 345   iteracione = 3093   te pranuara = 646
+  k=170  torso me e madhe = 171   iteracione = 3117   te pranuara = 599
+  k=102  torso me e madhe = 103   iteracione = 3031   te pranuara = 504
+  k=61   torso me e madhe = 62    iteracione = 3254   te pranuara = 624
+  k=36   torso me e madhe = 37    iteracione = 3317   te pranuara = 641
+  k=22   torso me e madhe = 23    iteracione = 3200   te pranuara = 716
+  k=13   torso me e madhe = 14    iteracione = 3287   te pranuara = 648
+  k=8    torso me e madhe = 9     iteracione = 3163   te pranuara = 714
+  k=5    torso me e madhe = 6     iteracione = 3249   te pranuara = 723
+  k=3    torso me e madhe = 4     iteracione = 3239   te pranuara = 745
+  k=2    torso me e madhe = 3     iteracione = 3282   te pranuara = 881
+  k=1    torso me e madhe = 2     iteracione = 3306   te pranuara = 872
+
+Fronti Pareto: 286 pika jo te dominuara, te zgjedhura 20
+Hypervolume (ref = (t = 1399, width = 501)): te gjitha = 0.49171, 20 te zgjedhurat = 0.48861
+
+   t   | torso size | torso width
+     0 |       1399 |         285
+  1077 |        322 |         275
+  1124 |        275 |         261
+  1139 |        260 |         246
+  1156 |        243 |         230
+  1168 |        231 |         220
+  1179 |        220 |         209
+  1191 |        208 |         197
+  1210 |        189 |         186
+  1221 |        178 |         175
+  1238 |        161 |         158
+  1255 |        144 |         141
+  1264 |        135 |         132
+  1273 |        126 |         123
+  1291 |        108 |         105
+  1310 |         89 |          88
+  1328 |         71 |          70
+  1345 |         54 |          53
+  1363 |         36 |          35
+  1381 |         18 |          17
+
+Koha: 300.2s
+Vektoret u ruajten ne results/medium_ils.json

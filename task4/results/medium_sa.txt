@@ -1,0 +1,42 @@
+Grafi: medium  |  n = 1399, brinje = 13799  |  metoda: sa, koha 300s, seed 0
+minimum degree: gjeresia e plote 285 (0.5s); gjeresite k: [284, 170, 102, 61, 36, 22, 13, 8, 5, 3, 2, 1]
+  k=284  torso me e madhe = 530   iteracione = 3069   te pranuara = 614
+  k=170  torso me e madhe = 353   iteracione = 3083   te pranuara = 799
+  k=102  torso me e madhe = 103   iteracione = 2996   te pranuara = 674
+  k=61   torso me e madhe = 62    iteracione = 3279   te pranuara = 742
+  k=36   torso me e madhe = 37    iteracione = 3332   te pranuara = 779
+  k=22   torso me e madhe = 23    iteracione = 3175   te pranuara = 830
+  k=13   torso me e madhe = 14    iteracione = 3202   te pranuara = 891
+  k=8    torso me e madhe = 9     iteracione = 3254   te pranuara = 958
+  k=5    torso me e madhe = 6     iteracione = 3122   te pranuara = 976
+  k=3    torso me e madhe = 4     iteracione = 3214   te pranuara = 1029
+  k=2    torso me e madhe = 3     iteracione = 3236   te pranuara = 1060
+  k=1    torso me e madhe = 2     iteracione = 3189   te pranuara = 1021
+
+Fronti Pareto: 286 pika jo te dominuara, te zgjedhura 20
+Hypervolume (ref = (t = 1399, width = 501)): te gjitha = 0.53517, 20 te zgjedhurat = 0.53110
+
+   t   | torso size | torso width
+     0 |       1399 |         285
+   906 |        493 |         271
+   926 |        473 |         259
+   950 |        449 |         243
+   969 |        430 |         230
+   988 |        411 |         216
+  1006 |        393 |         201
+  1025 |        374 |         185
+  1046 |        353 |         170
+  1134 |        265 |         158
+  1147 |        252 |         150
+  1176 |        223 |         132
+  1209 |        190 |         112
+  1245 |        154 |          92
+  1264 |        135 |          83
+  1283 |        116 |          71
+  1310 |         89 |          56
+  1332 |         67 |          40
+  1365 |         34 |          25
+  1386 |         13 |          12
+
+Koha: 300.2s
+Vektoret u ruajten ne results/medium_sa.json

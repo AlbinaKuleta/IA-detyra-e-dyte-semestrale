@@ -1,0 +1,42 @@
+Grafi: hard  |  n = 2426, brinje = 253895  |  metoda: ils, koha 600s, seed 0
+minimum degree: gjeresia e plote 499 (1.2s); gjeresite k: [498, 283, 161, 92, 52, 30, 17, 10, 5, 3, 2, 1]
+  k=498  torso me e madhe = 2425  iteracione = 656    te pranuara = 218
+  k=283  torso me e madhe = 284   iteracione = 658    te pranuara = 353
+  k=161  torso me e madhe = 162   iteracione = 591    te pranuara = 374
+  k=92   torso me e madhe = 93    iteracione = 607    te pranuara = 271
+  k=52   torso me e madhe = 53    iteracione = 573    te pranuara = 264
+  k=30   torso me e madhe = 31    iteracione = 529    te pranuara = 263
+  k=17   torso me e madhe = 18    iteracione = 717    te pranuara = 422
+  k=10   torso me e madhe = 11    iteracione = 680    te pranuara = 352
+  k=5    torso me e madhe = 6     iteracione = 653    te pranuara = 357
+  k=3    torso me e madhe = 4     iteracione = 503    te pranuara = 265
+  k=2    torso me e madhe = 3     iteracione = 661    te pranuara = 357
+  k=1    torso me e madhe = 2     iteracione = 676    te pranuara = 392
+
+Fronti Pareto: 500 pika jo te dominuara, te zgjedhura 20
+Hypervolume (ref = (t = 2426, width = 501)): te gjitha = 0.22318, 20 te zgjedhurat = 0.20959
+
+   t   | torso size | torso width
+   112 |       2314 |         485
+   250 |       2176 |         476
+   356 |       2070 |         467
+   550 |       1876 |         457
+   784 |       1642 |         441
+   974 |       1452 |         426
+  1060 |       1366 |         421
+  1210 |       1216 |         414
+  1323 |       1103 |         407
+  1485 |        941 |         395
+  1668 |        758 |         384
+  1779 |        647 |         374
+  1950 |        476 |         360
+  2098 |        328 |         326
+  2132 |        294 |         292
+  2171 |        255 |         253
+  2215 |        211 |         210
+  2267 |        159 |         158
+  2320 |        106 |         105
+  2373 |         53 |          52
+
+Koha: 601.3s
+Vektoret u ruajten ne results/hard_ils.json

@@ -1,0 +1,40 @@
+Grafi: easy  |  n = 1357, brinje = 2280  |  metoda: sa, koha 300s, seed 0
+minimum degree: gjeresia e plote 20 (0.3s); gjeresite k: [19, 15, 11, 9, 7, 5, 4, 3, 2, 1]
+  k=19   torso me e madhe = 325   iteracione = 9497   te pranuara = 4480
+  k=15   torso me e madhe = 300   iteracione = 9625   te pranuara = 4543
+  k=11   torso me e madhe = 242   iteracione = 9743   te pranuara = 4537
+  k=9    torso me e madhe = 281   iteracione = 10396  te pranuara = 5037
+  k=7    torso me e madhe = 162   iteracione = 9820   te pranuara = 5019
+  k=5    torso me e madhe = 186   iteracione = 9991   te pranuara = 5527
+  k=4    torso me e madhe = 177   iteracione = 10047  te pranuara = 5441
+  k=3    torso me e madhe = 10    iteracione = 10222  te pranuara = 4763
+  k=2    torso me e madhe = 13    iteracione = 10026  te pranuara = 4793
+  k=1    torso me e madhe = 4     iteracione = 9932   te pranuara = 4509
+
+Fronti Pareto: 21 pika jo te dominuara, te zgjedhura 20
+Hypervolume (ref = (t = 1357, width = 501)): te gjitha = 0.96658, 20 te zgjedhurat = 0.96658
+
+   t   | torso size | torso width
+     0 |       1357 |          20
+  1017 |        340 |          19
+  1022 |        335 |          18
+  1028 |        329 |          17
+  1033 |        324 |          16
+  1040 |        317 |          15
+  1045 |        312 |          14
+  1050 |        307 |          13
+  1058 |        299 |          12
+  1065 |        292 |          11
+  1070 |        287 |          10
+  1076 |        281 |           9
+  1156 |        201 |           8
+  1161 |        196 |           7
+  1165 |        192 |           6
+  1171 |        186 |           5
+  1180 |        177 |           4
+  1331 |         26 |           3
+  1344 |         13 |           2
+  1353 |          4 |           1
+
+Koha: 300.1s
+Vektoret u ruajten ne results/easy_sa.json
